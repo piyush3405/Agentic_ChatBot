@@ -162,6 +162,9 @@ venv.bak/
 # Local vector database
 chroma_db/
 
+# Local application data and checkpoints
+data/
+
 # Spyder project settings
 .spyderproject
 .spyproject
